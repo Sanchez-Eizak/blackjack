@@ -1,3 +1,3 @@
 # Blackjack
 
-Play blackjack in a python terminal
+Play blackjack in a python terminal.
